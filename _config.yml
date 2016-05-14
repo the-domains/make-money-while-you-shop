@@ -1,16 +1,28 @@
-typography_spectrum: 0.17173555470071733
+name: Make money while you shop
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/672483fd-9fb0-48e7-9f4e-72e2e3980818.jpg'
 color:
-  brandStrength: 0.33683907031081617
-  lightness: 0.23221406736411154
-  saturation: 0.8074589248280972
-  rhythmicContrast: 0.3754936633631587
+  saturation: 1
+  brandStrength: 0.3368390703108162
+  lightness: 1
   brandColors:
     - '#85DB18'
     - '#CDE855'
     - '#F5F6D4'
     - '#A7C520'
     - '#493F0B'
+  rhythmicContrast: 1
+typography_spectrum: 0.1717355547007173
 layout_spectrum: 0.6606349521316588
-logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/672483fd-9fb0-48e7-9f4e-72e2e3980818.jpg'
-name: Make money while you shop
 favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/c04a4dae-4883-4e9a-a807-55edb20b5330.jpg'
