@@ -5,15 +5,15 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/672483fd-9fb0-48e7-9f4e-72e2e3980818.jpg'
 color:
-  saturation: 1
+  saturation: 0.5064447
   brandStrength: 0.3368390703108162
   lightness: 1
   brandColors:
@@ -22,7 +22,7 @@ color:
     - '#F5F6D4'
     - '#A7C520'
     - '#493F0B'
-  rhythmicContrast: 1
-typography_spectrum: 0.1717355547007173
-layout_spectrum: 0.6606349521316588
+  rhythmicContrast: 0.07572501
+typography_spectrum: 0.4033297
+layout_spectrum: 1
 favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/c04a4dae-4883-4e9a-a807-55edb20b5330.jpg'
